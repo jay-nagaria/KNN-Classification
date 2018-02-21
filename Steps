@@ -1,0 +1,13 @@
+Import Data
+  o Used Iris dataset from the UCI ML Repository
+Split data into training and testing
+  o First 75% of data instances are on the training side.
+  o Rest 25% are testing.
+Calculate the Distance of the test set from all the training sets.
+  o Calculate the distance using Euclidean distance
+Calculate the K nearest neighbors
+  o Sort the distance in ascending order and pick the top k neighbors.
+Predict the class of the test based on the k neighbors
+  o Use odd value for k
+  o The Class of the test set is the one in which majority of the neighbors belong.
+Calculate Accuracy by comparing all the prediction of the test set by the actual values.
