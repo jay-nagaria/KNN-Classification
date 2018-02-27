@@ -1,2 +1,1 @@
-KNN-Classification
-KNN Classification Implementation in python
+KNN-Classification Implementation in python
