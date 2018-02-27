@@ -1,3 +1,5 @@
+NOTE : This algorihhm is specifically for the continuous feature values
+
 Import Data
   o Used Iris dataset from the UCI ML Repository
 Split data into training and testing
